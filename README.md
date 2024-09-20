@@ -3,7 +3,7 @@
 ```html
 <div>
 	<Intro>
-		Hello! I am The3D / 3D (formerly known as 3DNinja54) and I am 18-year-old programmer who is also 
+		Hello! I am The3D / 3D and I am 18-year-old programmer who is also 
 		a high-school student majoring in Computer Science!
 	</Intro>
 	<Backstory year="2017">
