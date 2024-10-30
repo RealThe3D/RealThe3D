@@ -35,6 +35,6 @@
 
 ### GitHub Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=3DNinja54&theme=discord_old_blurple&show_icons=true)](https://github.com/3DNinja54/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=RealThe3D&theme=discord_old_blurple&show_icons=true)](https://github.com/3DNinja54/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3DNinja54&theme=discord_old_blurple)](https://github.com/3DNinja54/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealThe3D&theme=discord_old_blurple)](https://github.com/3DNinja54/)
